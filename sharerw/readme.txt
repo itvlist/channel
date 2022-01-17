@@ -4,11 +4,11 @@
 https://sub.giteecn.workers.dev/itvlist/channel/main/sharerw/DIYP%E9%AD%94%E6%94%B9TV_5.2.0_%E6%99%B4%E5%9B%AD.apk
 # 内置源线路免翻订阅（下载）地址：
 # 国内（CN）:https://sharerw.vipshipin.workers.dev/itvlist/channel/main/sharerw/nzy.txt 
-（短链接：https://xw.al/dl7a1）
+
 # 港台（HK&TW）:https://sub.giteecn.workers.dev/itvlist/channel/main/sharerw/gtnz.txt
-（短链接：https://xw.al/u417w）
+
 # 歌舞（MV）:https://nbyy.vipshipin.workers.dev/itvlist/channel/main/sharerw/gwnz.txt
-（短链接：https://xw.al/8ep00）
+
 
 # 三条源汇总：https://sharerw.vipshipin.workers.dev/itvlist/channel/main/sharerw/all.txt
 （短链接：https://xw.al/ou3c0）
